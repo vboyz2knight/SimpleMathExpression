@@ -1,0 +1,4 @@
+C:\Projects\Demo2015_1\SimpleMathExpression\bin\Release\SimpleMathExpression.dll
+C:\Projects\Demo2015_1\SimpleMathExpression\bin\Release\SimpleMathExpression.pdb
+C:\Projects\Demo2015_1\SimpleMathExpression\obj\Release\SimpleMathExpression.dll
+C:\Projects\Demo2015_1\SimpleMathExpression\obj\Release\SimpleMathExpression.pdb

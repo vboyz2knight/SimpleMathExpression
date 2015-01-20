@@ -1,0 +1,17 @@
+E:\Programming\Hieu\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.dll
+E:\Programming\Hieu\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
+E:\Programming\Hieu\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
+E:\Programming\Hieu\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
+C:\Hieu\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.dll
+C:\Hieu\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
+C:\Hieu\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
+C:\Hieu\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
+C:\Hieu\VS2013\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.dll
+C:\Hieu\VS2013\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
+C:\Hieu\VS2013\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
+C:\Hieu\VS2013\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
+C:\Projects\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.dll
+C:\Projects\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
+C:\Projects\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
+C:\Projects\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
+C:\Projects\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.csprojResolveAssemblyReference.cache
