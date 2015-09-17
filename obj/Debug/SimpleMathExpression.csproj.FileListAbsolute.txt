@@ -15,3 +15,13 @@ C:\Projects\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
 C:\Projects\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
 C:\Projects\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
 C:\Projects\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.csprojResolveAssemblyReference.cache
+D:\Programming\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.dll
+D:\Programming\Demo2015_1\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
+D:\Programming\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.csprojResolveAssemblyReference.cache
+D:\Programming\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
+D:\Programming\Demo2015_1\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
+D:\Programming\Demo2015MVC\SimpleMathExpression\bin\Debug\SimpleMathExpression.dll
+D:\Programming\Demo2015MVC\SimpleMathExpression\bin\Debug\SimpleMathExpression.pdb
+D:\Programming\Demo2015MVC\SimpleMathExpression\obj\Debug\SimpleMathExpression.dll
+D:\Programming\Demo2015MVC\SimpleMathExpression\obj\Debug\SimpleMathExpression.pdb
+D:\Programming\Demo2015MVC\SimpleMathExpression\obj\Debug\SimpleMathExpression.csprojResolveAssemblyReference.cache
